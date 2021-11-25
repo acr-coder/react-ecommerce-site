@@ -59,6 +59,7 @@ const Right = styled.div`
     display: flex;
     flex-direction: column;
     padding: 20px;
+    ${mobile({ backgroundColor: "#eee" })}
 `;
 const ContactItem = styled.div`
 margin-bottom: 20px;

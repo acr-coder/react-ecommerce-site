@@ -12,7 +12,7 @@ const App = () => {
   return (
     
     <Layout>
-      <Home />
+      <Cart />
     </Layout>
   );
 };
